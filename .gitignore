@@ -13,3 +13,6 @@ webpacked
 built
 botchat.js
 botchat.js.map
+
+# CruBot
+/dist/botchat.*
